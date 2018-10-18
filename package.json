@@ -1,0 +1,15 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "site mail crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mbilalbark",
+  "license": "ISC",
+  "dependencies": {
+    "email-validator": "^2.0.4",
+    "node-html-parser": "^1.1.10"
+  }
+}
